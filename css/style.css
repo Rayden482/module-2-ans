@@ -5,7 +5,7 @@
 body{
 	margin: 0;
 	padding: 0;
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: "courier" , arial , helvetica; <!-- done -->
 }
 
 .row{
@@ -16,7 +16,7 @@ body{
 h1 {
   margin-bottom: 15px;
   text-align: center;
-  color: #ff4532;
+  color: #ff4532; <!-- done -->
   font-size: 50px;
 }
 
@@ -54,15 +54,15 @@ h1 {
 }
 
 .name1{
-  background-color: #FFB6C1;
+  color: white;
+  background-color: #0066ff; <!-- done -->
 }
 
 .name2{
-  color: white;
-  background-color: #FF0000;
+  background-color: #00e600; <!-- done -->
 }
 .name3{
-  background-color: #FFFF00;
+  background-color: #ff0000; <!-- done -->
 }
 
 
